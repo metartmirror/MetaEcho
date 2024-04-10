@@ -1962,8 +1962,19 @@ PrefabInstance:
     - target: {fileID: 8347823540074219467, guid: b5f0eb66688927a4282994005677b66f,
         type: 3}
       propertyPath: m_text
-      value: "Monitors count\uFF1A"
+      value: 'Monitors count:'
       objectReference: {fileID: 0}
+    - target: {fileID: 8347823540074219467, guid: b5f0eb66688927a4282994005677b66f,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee,
+        type: 2}
+    - target: {fileID: 8347823540074219467, guid: b5f0eb66688927a4282994005677b66f,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5f0eb66688927a4282994005677b66f, type: 3}
 --- !u!224 &753071277 stripped
