@@ -1,6 +1,6 @@
 # MetaEcho: VR Audio Education System
 
-This repository contains the core code for the development of MetaEcho, an innovative system designed to transform audio engineering and sound recording education through a virtual reality (VR) framework. The program supports **streaming from a computer** using VR equipment or operates as a **standalone application** within the VR environment ([meta_echo_1.3.apk](https://file.io/IrPZVRgVcmVX)). You can find our demo video in the project root directory: `meta_echo_demo_1.3.mp4`.
+This repository contains the core code for the development of MetaEcho, an innovative system designed to transform audio engineering and sound recording education through a virtual reality (VR) framework. The program supports **streaming from a computer** using VR equipment or operates as a **standalone application** within the VR environment ([meta_echo_1.3.apk](https://file.io/IrPZVRgVcmVX)). You can find our demo video in the project root directory: `meta_echo_demo_1.3.mp4`. Our program can be built and run independently, but for enhanced demonstration purposes, we use streaming in our demo video.
 
 ## Abstract
 
